@@ -5,6 +5,7 @@ __pycache__/
 .env
 venv/
 myenv/
+/.scannerwork
 # C extensions
 *.so
 
