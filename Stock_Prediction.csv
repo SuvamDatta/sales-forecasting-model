@@ -1,0 +1,559 @@
+Date,Store_Name,Product_Category,Stock_Available,Stock_Sold,Stock_Received,Sales
+08-2019,The Corner Store,Gaming Console,10000,11000,5698,330000
+09-2019,The Corner Store,Gaming Console,4698,4300,7855,129000
+10-2019,The Corner Store,Gaming Console,8253,4100,3456,123000
+11-2019,The Corner Store,Gaming Console,7609,9000,9807,270000
+12-2019,The Corner Store,Gaming Console,8416,13786,7896,413580
+01-2020,The Corner Store,Gaming Console,2526,15000,12956,450000
+02-2020,The Corner Store,Gaming Console,482,7690,8732,230700
+03-2020,The Corner Store,Gaming Console,1524,4330,9875,129900
+04-2020,The Corner Store,Gaming Console,7069,4400,7654,132000
+05-2020,The Corner Store,Gaming Console,10323,4700,1234,141000
+06-2020,The Corner Store,Gaming Console,6857,4900,3322,147000
+07-2020,The Corner Store,Gaming Console,5279,11234,7111,337020
+08-2020,The Corner Store,Gaming Console,1156,12299,11698,368970
+09-2020,The Corner Store,Gaming Console,555,4929,7855,147870
+10-2020,The Corner Store,Gaming Console,3481,4709,3456,141270
+11-2020,The Corner Store,Gaming Console,2228,10099,9807,302970
+12-2020,The Corner Store,Gaming Console,1936,15364,13896,460920
+01-2021,The Corner Store,Gaming Console,468,18286,17956,548580
+02-2021,The Corner Store,Gaming Console,138,9514,9732,285420
+03-2021,The Corner Store,Gaming Console,356,5482,9875,164460
+04-2021,The Corner Store,Gaming Console,4749,5566,7654,166980
+05-2021,The Corner Store,Gaming Console,6837,5926,1234,177780
+06-2021,The Corner Store,Gaming Console,2145,6166,4322,184980
+07-2021,The Corner Store,Gaming Console,301,13767,17111,413010
+08-2021,The Corner Store,Gaming Console,3645,15045,15698,451350
+09-2021,The Corner Store,Gaming Console,4298,6201,7855,186030
+10-2021,The Corner Store,Gaming Console,5952,5937,3456,178110
+11-2021,The Corner Store,Gaming Console,3471,12405,9807,372150
+12-2021,The Corner Store,Gaming Console,873,18723,27896,561690
+01-2022,The Corner Store,Gaming Console,10046,24058,22956,721740
+02-2022,The Corner Store,Gaming Console,8944,12654,8732,379620
+03-2022,The Corner Store,Gaming Console,5022,7413,9875,222390
+04-2022,The Corner Store,Gaming Console,7484,7522,7654,225660
+05-2022,The Corner Store,Gaming Console,7616,7990,1234,239700
+06-2022,The Corner Store,Gaming Console,860,8302,23322,249060
+07-2022,The Corner Store,Gaming Console,15880,18183,7111,545490
+08-2022,The Corner Store,Gaming Console,4808,19845,15698,595350
+09-2022,The Corner Store,Gaming Console,661,8347,7855,250410
+10-2022,The Corner Store,Gaming Console,169,8004,9456,240120
+11-2022,The Corner Store,Gaming Console,1621,16413,29807,492390
+12-2022,The Corner Store,Gaming Console,15015,24626,17896,738780
+01-2023,The Corner Store,Gaming Console,8285,34337,29956,1030110
+02-2023,The Corner Store,Gaming Console,3904,18372,18732,551160
+03-2023,The Corner Store,Gaming Console,4264,11034,9875,331020
+04-2023,The Corner Store,Gaming Console,3105,11187,17654,335610
+05-2023,The Corner Store,Gaming Console,9572,11842,11234,355260
+06-2023,The Corner Store,Gaming Console,8964,12279,13322,368370
+07-2023,The Corner Store,Gaming Console,10007,26112,27111,783360
+08-2023,The Corner Store,Gaming Console,11006,28439,19698,853170
+09-2023,The Corner Store,Gaming Console,2265,12342,19855,370260
+10-2023,The Corner Store,Gaming Console,9778,11862,3456,355860
+11-2023,The Corner Store,Gaming Console,1372,23634,29807,709020
+12-2023,The Corner Store,Gaming Console,7545,35132,47896,1053960
+01-2024,The Corner Store,Gaming Console,20309,51973,32956,1559190
+02-2024,The Corner Store,Gaming Console,1292,28185,28732,845550
+03-2024,The Corner Store,Gaming Console,1839,17252,19875,517560
+04-2024,The Corner Store,Gaming Console,4462,17480,17654,524400
+05-2024,The Corner Store,Gaming Console,4636,18456,21234,553680
+06-2024,The Corner Store,Gaming Console,7414,19107,23322,573210
+07-2024,The Corner Store,Gaming Console,11629,39718,37111,1191540
+08-2024,The Corner Store,Gaming Console,9022,43185,35698,1295550
+09-2024,The Corner Store,Gaming Console,1535,19201,7855,576030
+08-2019,Market Basket,Gaming Console,10000,3667,1899,110010
+09-2019,Market Basket,Gaming Console,8232,1433,2618,42990
+10-2019,Market Basket,Gaming Console,9417,1367,1152,41010
+11-2019,Market Basket,Gaming Console,9202,3000,3269,90000
+12-2019,Market Basket,Gaming Console,9471,4595,2632,137850
+01-2020,Market Basket,Gaming Console,7508,5000,4319,150000
+02-2020,Market Basket,Gaming Console,6827,2563,2911,76890
+03-2020,Market Basket,Gaming Console,7175,1443,3292,43290
+04-2020,Market Basket,Gaming Console,9024,1467,2551,44010
+05-2020,Market Basket,Gaming Console,10108,1567,411,47010
+06-2020,Market Basket,Gaming Console,8952,1633,1107,48990
+07-2020,Market Basket,Gaming Console,8426,3745,2370,112350
+08-2020,Market Basket,Gaming Console,7051,4100,3899,123000
+09-2020,Market Basket,Gaming Console,6850,1643,2618,49290
+10-2020,Market Basket,Gaming Console,7825,1570,1152,47100
+11-2020,Market Basket,Gaming Console,7407,3366,3269,100980
+12-2020,Market Basket,Gaming Console,7310,5121,4632,153630
+01-2021,Market Basket,Gaming Console,6821,6095,5985,182850
+02-2021,Market Basket,Gaming Console,6711,3171,3244,95130
+03-2021,Market Basket,Gaming Console,6784,1827,3292,54810
+04-2021,Market Basket,Gaming Console,8249,1855,2551,55650
+05-2021,Market Basket,Gaming Console,8945,1975,411,59250
+06-2021,Market Basket,Gaming Console,7381,2055,1441,61650
+07-2021,Market Basket,Gaming Console,6767,4589,5704,137670
+08-2021,Market Basket,Gaming Console,7882,5015,5233,150450
+09-2021,Market Basket,Gaming Console,8100,2067,2618,62010
+10-2021,Market Basket,Gaming Console,8651,1979,1152,59370
+11-2021,Market Basket,Gaming Console,7824,4135,3269,124050
+12-2021,Market Basket,Gaming Console,6958,6241,9299,187230
+01-2022,Market Basket,Gaming Console,10016,8019,7652,240570
+02-2022,Market Basket,Gaming Console,9649,4218,2911,126540
+03-2022,Market Basket,Gaming Console,8342,2471,3292,74130
+04-2022,Market Basket,Gaming Console,9163,2507,2551,75210
+05-2022,Market Basket,Gaming Console,9207,2663,411,79890
+06-2022,Market Basket,Gaming Console,6955,2767,7774,83010
+07-2022,Market Basket,Gaming Console,11962,6061,2370,181830
+08-2022,Market Basket,Gaming Console,8271,6615,5233,198450
+09-2022,Market Basket,Gaming Console,6889,2782,2618,83460
+10-2022,Market Basket,Gaming Console,6725,2668,3152,80040
+11-2022,Market Basket,Gaming Console,7209,5471,9936,164130
+12-2022,Market Basket,Gaming Console,11674,8208,5965,246240
+01-2023,Market Basket,Gaming Console,9431,11446,9985,343380
+02-2023,Market Basket,Gaming Console,7970,6124,6244,183720
+03-2023,Market Basket,Gaming Console,8090,3678,3292,110340
+04-2023,Market Basket,Gaming Console,7704,3729,5885,111870
+05-2023,Market Basket,Gaming Console,9860,3947,3745,118410
+06-2023,Market Basket,Gaming Console,9658,4093,4441,122790
+07-2023,Market Basket,Gaming Console,10006,8704,9037,261120
+08-2023,Market Basket,Gaming Console,10339,9480,6566,284400
+09-2023,Market Basket,Gaming Console,7425,4114,6618,123420
+10-2023,Market Basket,Gaming Console,9929,3954,1152,118620
+11-2023,Market Basket,Gaming Console,7127,7878,9936,236340
+12-2023,Market Basket,Gaming Console,9185,11710,15965,351300
+01-2024,Market Basket,Gaming Console,13440,17324,10985,519720
+02-2024,Market Basket,Gaming Console,7101,9395,9577,281850
+03-2024,Market Basket,Gaming Console,7283,5751,6625,172530
+04-2024,Market Basket,Gaming Console,8157,5827,5885,174810
+05-2024,Market Basket,Gaming Console,8215,6152,7078,184560
+06-2024,Market Basket,Gaming Console,9141,6369,7774,191070
+07-2024,Market Basket,Gaming Console,10546,13239,12370,397170
+08-2024,Market Basket,Gaming Console,9677,14395,11899,431850
+09-2024,Market Basket,Gaming Console,7181,6400,2618,192000
+08-2019,Main Street Mart,Gaming Console,10000,5500,2849,165000
+09-2019,Main Street Mart,Gaming Console,7349,2150,3928,64500
+10-2019,Main Street Mart,Gaming Console,9127,2050,1728,61500
+11-2019,Main Street Mart,Gaming Console,8805,4500,4904,135000
+12-2019,Main Street Mart,Gaming Console,9209,6893,3948,206790
+01-2020,Main Street Mart,Gaming Console,6264,7500,6478,225000
+02-2020,Main Street Mart,Gaming Console,5242,3845,4366,115350
+03-2020,Main Street Mart,Gaming Console,5763,2165,4938,64950
+04-2020,Main Street Mart,Gaming Console,8536,2200,3827,66000
+05-2020,Main Street Mart,Gaming Console,10163,2350,617,70500
+06-2020,Main Street Mart,Gaming Console,8430,2450,1661,73500
+07-2020,Main Street Mart,Gaming Console,7641,5617,3556,168510
+08-2020,Main Street Mart,Gaming Console,5580,6150,5849,184500
+09-2020,Main Street Mart,Gaming Console,5279,2465,3928,73950
+10-2020,Main Street Mart,Gaming Console,6742,2355,1728,70650
+11-2020,Main Street Mart,Gaming Console,6115,5050,4904,151500
+12-2020,Main Street Mart,Gaming Console,5969,7682,6948,230460
+01-2021,Main Street Mart,Gaming Console,5235,9143,8978,274290
+02-2021,Main Street Mart,Gaming Console,5070,4757,4866,142710
+03-2021,Main Street Mart,Gaming Console,5179,2741,4938,82230
+04-2021,Main Street Mart,Gaming Console,7376,2783,3827,83490
+05-2021,Main Street Mart,Gaming Console,8420,2963,617,88890
+06-2021,Main Street Mart,Gaming Console,6074,3083,2161,92490
+07-2021,Main Street Mart,Gaming Console,5152,6884,8556,206520
+08-2021,Main Street Mart,Gaming Console,6824,7523,7849,225690
+09-2021,Main Street Mart,Gaming Console,7150,3101,3928,93030
+10-2021,Main Street Mart,Gaming Console,7977,2969,1728,89070
+11-2021,Main Street Mart,Gaming Console,6736,6203,4904,186090
+12-2021,Main Street Mart,Gaming Console,5437,9361,13948,280830
+01-2022,Main Street Mart,Gaming Console,10024,12029,11478,360870
+02-2022,Main Street Mart,Gaming Console,9473,6327,4366,189810
+03-2022,Main Street Mart,Gaming Console,7512,3707,4938,111210
+04-2022,Main Street Mart,Gaming Console,8743,3761,3827,112830
+05-2022,Main Street Mart,Gaming Console,8809,3995,617,119850
+06-2022,Main Street Mart,Gaming Console,5431,4151,11661,124530
+07-2022,Main Street Mart,Gaming Console,12941,9092,3556,272760
+08-2022,Main Street Mart,Gaming Console,7405,9923,7849,297690
+09-2022,Main Street Mart,Gaming Console,5331,4174,3928,125220
+10-2022,Main Street Mart,Gaming Console,5085,4002,4728,120060
+11-2022,Main Street Mart,Gaming Console,5811,8207,14904,246210
+12-2022,Main Street Mart,Gaming Console,12508,12313,8948,369390
+01-2023,Main Street Mart,Gaming Console,9143,17169,14978,515070
+02-2023,Main Street Mart,Gaming Console,6952,9186,9366,275580
+03-2023,Main Street Mart,Gaming Console,7132,5517,4938,165510
+04-2023,Main Street Mart,Gaming Console,6553,5594,8827,167820
+05-2023,Main Street Mart,Gaming Console,9786,5921,5617,177630
+06-2023,Main Street Mart,Gaming Console,9482,6140,6661,184200
+07-2023,Main Street Mart,Gaming Console,10003,13056,13556,391680
+08-2023,Main Street Mart,Gaming Console,10503,14220,9849,426600
+09-2023,Main Street Mart,Gaming Console,6132,6171,9928,185130
+10-2023,Main Street Mart,Gaming Console,9889,5931,1728,177930
+11-2023,Main Street Mart,Gaming Console,5686,11817,14904,354510
+12-2023,Main Street Mart,Gaming Console,8773,17566,23948,526980
+01-2024,Main Street Mart,Gaming Console,15155,25987,16478,779610
+02-2024,Main Street Mart,Gaming Console,5646,14093,14366,422790
+03-2024,Main Street Mart,Gaming Console,5919,8626,9938,258780
+04-2024,Main Street Mart,Gaming Console,7231,8740,8827,262200
+05-2024,Main Street Mart,Gaming Console,7318,9228,10617,276840
+06-2024,Main Street Mart,Gaming Console,8707,9554,11661,286620
+07-2024,Main Street Mart,Gaming Console,10814,19859,18556,595770
+08-2024,Main Street Mart,Gaming Console,9511,21593,17849,647790
+09-2024,Main Street Mart,Gaming Console,5767,9601,3928,288030
+08-2019,Main Street Mart,Guitar,11000,1833,950,54990
+09-2019,Main Street Mart,Guitar,10117,717,1309,21510
+10-2019,Main Street Mart,Guitar,10709,683,576,20490
+11-2019,Main Street Mart,Guitar,10602,1500,1635,45000
+12-2019,Main Street Mart,Guitar,10737,2298,1316,68940
+01-2020,Main Street Mart,Guitar,9755,2500,2159,75000
+02-2020,Main Street Mart,Guitar,9414,1282,1455,38460
+03-2020,Main Street Mart,Guitar,9587,722,1646,21660
+04-2020,Main Street Mart,Guitar,10511,733,1276,21990
+05-2020,Main Street Mart,Guitar,11054,783,206,23490
+06-2020,Main Street Mart,Guitar,10477,817,554,24510
+07-2020,Main Street Mart,Guitar,10214,1872,1185,56160
+08-2020,Main Street Mart,Guitar,9527,2050,1950,61500
+09-2020,Main Street Mart,Guitar,9427,822,1309,24660
+10-2020,Main Street Mart,Guitar,9914,785,576,23550
+11-2020,Main Street Mart,Guitar,9705,1683,1635,50490
+12-2020,Main Street Mart,Guitar,9657,2561,2316,76830
+01-2021,Main Street Mart,Guitar,9412,3048,2993,91440
+02-2021,Main Street Mart,Guitar,9357,1586,1622,47580
+03-2021,Main Street Mart,Guitar,9393,914,1646,27420
+04-2021,Main Street Mart,Guitar,10125,928,1276,27840
+05-2021,Main Street Mart,Guitar,10473,988,206,29640
+06-2021,Main Street Mart,Guitar,9691,1028,720,30840
+07-2021,Main Street Mart,Guitar,9383,2295,2852,68850
+08-2021,Main Street Mart,Guitar,9940,2508,2616,75240
+09-2021,Main Street Mart,Guitar,10048,1034,1309,31020
+10-2021,Main Street Mart,Guitar,10323,990,576,29700
+11-2021,Main Street Mart,Guitar,9909,2068,1635,62040
+12-2021,Main Street Mart,Guitar,9476,3120,4649,93600
+01-2022,Main Street Mart,Guitar,11005,4010,3826,120300
+02-2022,Main Street Mart,Guitar,10821,2109,1455,63270
+03-2022,Main Street Mart,Guitar,10167,1236,1646,37080
+04-2022,Main Street Mart,Guitar,10577,1254,1276,37620
+05-2022,Main Street Mart,Guitar,10599,1332,206,39960
+06-2022,Main Street Mart,Guitar,9473,1384,3887,41520
+07-2022,Main Street Mart,Guitar,11976,3031,1185,90930
+08-2022,Main Street Mart,Guitar,10130,3308,2616,99240
+09-2022,Main Street Mart,Guitar,9438,1391,1309,41730
+10-2022,Main Street Mart,Guitar,9356,1334,1576,40020
+11-2022,Main Street Mart,Guitar,9598,2736,4968,82080
+12-2022,Main Street Mart,Guitar,11830,4104,2983,123120
+01-2023,Main Street Mart,Guitar,10709,5723,4993,171690
+02-2023,Main Street Mart,Guitar,9979,3062,3122,91860
+03-2023,Main Street Mart,Guitar,10039,1839,1646,55170
+04-2023,Main Street Mart,Guitar,9846,1865,2942,55950
+05-2023,Main Street Mart,Guitar,10923,1974,1872,59220
+06-2023,Main Street Mart,Guitar,10821,2047,2220,61410
+07-2023,Main Street Mart,Guitar,10994,4352,4519,130560
+08-2023,Main Street Mart,Guitar,11161,4740,3283,142200
+09-2023,Main Street Mart,Guitar,9704,2057,3309,61710
+10-2023,Main Street Mart,Guitar,10956,1977,576,59310
+11-2023,Main Street Mart,Guitar,9555,3939,4968,118170
+12-2023,Main Street Mart,Guitar,10584,5855,7983,175650
+01-2024,Main Street Mart,Guitar,12712,8662,5493,259860
+02-2024,Main Street Mart,Guitar,9543,4698,4789,140940
+03-2024,Main Street Mart,Guitar,9634,2875,3313,86250
+04-2024,Main Street Mart,Guitar,10072,2913,2942,87390
+05-2024,Main Street Mart,Guitar,10101,3076,3539,92280
+06-2024,Main Street Mart,Guitar,10564,3185,3887,95550
+07-2024,Main Street Mart,Guitar,11266,6620,6185,198600
+08-2024,Main Street Mart,Guitar,10831,7198,5950,215940
+09-2024,Main Street Mart,Guitar,9583,3200,1309,96000
+08-2019,Market Basket,Guitar,11000,1375,712,41250
+09-2019,Market Basket,Guitar,10337,538,982,16140
+10-2019,Market Basket,Guitar,10781,513,432,15390
+11-2019,Market Basket,Guitar,10700,1125,1226,33750
+12-2019,Market Basket,Guitar,10801,1723,987,51690
+01-2020,Market Basket,Guitar,10065,1875,1620,56250
+02-2020,Market Basket,Guitar,9810,961,1092,28830
+03-2020,Market Basket,Guitar,9941,541,1234,16230
+04-2020,Market Basket,Guitar,10634,550,957,16500
+05-2020,Market Basket,Guitar,11041,588,154,17640
+06-2020,Market Basket,Guitar,10607,613,415,18390
+07-2020,Market Basket,Guitar,10409,1404,889,42120
+08-2020,Market Basket,Guitar,9894,1537,1462,46110
+09-2020,Market Basket,Guitar,9819,616,982,18480
+10-2020,Market Basket,Guitar,10185,589,432,17670
+11-2020,Market Basket,Guitar,10028,1262,1226,37860
+12-2020,Market Basket,Guitar,9992,1920,1737,57600
+01-2021,Market Basket,Guitar,9809,2286,2245,68580
+02-2021,Market Basket,Guitar,9768,1189,1217,35670
+03-2021,Market Basket,Guitar,9796,685,1234,20550
+04-2021,Market Basket,Guitar,10345,696,957,20880
+05-2021,Market Basket,Guitar,10606,741,154,22230
+06-2021,Market Basket,Guitar,10019,771,540,23130
+07-2021,Market Basket,Guitar,9788,1721,2139,51630
+08-2021,Market Basket,Guitar,10206,1881,1962,56430
+09-2021,Market Basket,Guitar,10287,775,982,23250
+10-2021,Market Basket,Guitar,10494,742,432,22260
+11-2021,Market Basket,Guitar,10184,1551,1226,46530
+12-2021,Market Basket,Guitar,9859,2340,3487,70200
+01-2022,Market Basket,Guitar,11006,3007,2870,90210
+02-2022,Market Basket,Guitar,10869,1582,1092,47460
+03-2022,Market Basket,Guitar,10379,927,1234,27810
+04-2022,Market Basket,Guitar,10686,940,957,28200
+05-2022,Market Basket,Guitar,10703,999,154,29970
+06-2022,Market Basket,Guitar,9858,1038,2915,31140
+07-2022,Market Basket,Guitar,11735,2273,889,68190
+08-2022,Market Basket,Guitar,10351,2481,1962,74430
+09-2022,Market Basket,Guitar,9832,1043,982,31290
+10-2022,Market Basket,Guitar,9771,1001,1182,30030
+11-2022,Market Basket,Guitar,9952,2052,3726,61560
+12-2022,Market Basket,Guitar,11626,3078,2237,92340
+01-2023,Market Basket,Guitar,10785,4292,3745,128760
+02-2023,Market Basket,Guitar,10238,2297,2342,68910
+03-2023,Market Basket,Guitar,10283,1379,1234,41370
+04-2023,Market Basket,Guitar,10138,1398,2207,41940
+05-2023,Market Basket,Guitar,10947,1480,1404,44400
+06-2023,Market Basket,Guitar,10871,1535,1665,46050
+07-2023,Market Basket,Guitar,11001,3264,3389,97920
+08-2023,Market Basket,Guitar,11126,3555,2462,106650
+09-2023,Market Basket,Guitar,10033,1543,2482,46290
+10-2023,Market Basket,Guitar,10972,1483,432,44490
+11-2023,Market Basket,Guitar,9921,2954,3726,88620
+12-2023,Market Basket,Guitar,10693,4391,5987,131730
+01-2024,Market Basket,Guitar,12289,6497,4120,194910
+02-2024,Market Basket,Guitar,9912,3523,3592,105690
+03-2024,Market Basket,Guitar,9981,2157,2484,64710
+04-2024,Market Basket,Guitar,10308,2185,2207,65550
+05-2024,Market Basket,Guitar,10330,2307,2654,69210
+06-2024,Market Basket,Guitar,10677,2388,2915,71640
+07-2024,Market Basket,Guitar,11204,4965,4639,148950
+08-2024,Market Basket,Guitar,10878,5398,4462,161940
+09-2024,Market Basket,Guitar,9942,2400,982,72000
+08-2019,Main Street Mart,Guitar,11000,1833,950,54990
+09-2019,Main Street Mart,Guitar,10117,717,1309,21510
+10-2019,Main Street Mart,Guitar,10709,683,576,20490
+11-2019,Main Street Mart,Guitar,10602,1500,1635,45000
+12-2019,Main Street Mart,Guitar,10737,2298,1316,68940
+01-2020,Main Street Mart,Guitar,9755,2500,2159,75000
+02-2020,Main Street Mart,Guitar,9414,1282,1455,38460
+03-2020,Main Street Mart,Guitar,9587,722,1646,21660
+04-2020,Main Street Mart,Guitar,10511,733,1276,21990
+05-2020,Main Street Mart,Guitar,11054,783,206,23490
+06-2020,Main Street Mart,Guitar,10477,817,554,24510
+07-2020,Main Street Mart,Guitar,10214,1872,1185,56160
+08-2020,Main Street Mart,Guitar,9527,2050,1950,61500
+09-2020,Main Street Mart,Guitar,9427,822,1309,24660
+10-2020,Main Street Mart,Guitar,9914,785,576,23550
+11-2020,Main Street Mart,Guitar,9705,1683,1635,50490
+12-2020,Main Street Mart,Guitar,9657,2561,2316,76830
+01-2021,Main Street Mart,Guitar,9412,3048,2993,91440
+02-2021,Main Street Mart,Guitar,9357,1586,1622,47580
+03-2021,Main Street Mart,Guitar,9393,914,1646,27420
+04-2021,Main Street Mart,Guitar,10125,928,1276,27840
+05-2021,Main Street Mart,Guitar,10473,988,206,29640
+06-2021,Main Street Mart,Guitar,9691,1028,720,30840
+07-2021,Main Street Mart,Guitar,9383,2295,2852,68850
+08-2021,Main Street Mart,Guitar,9940,2508,2616,75240
+09-2021,Main Street Mart,Guitar,10048,1034,1309,31020
+10-2021,Main Street Mart,Guitar,10323,990,576,29700
+11-2021,Main Street Mart,Guitar,9909,2068,1635,62040
+12-2021,Main Street Mart,Guitar,9476,3120,4649,93600
+01-2022,Main Street Mart,Guitar,11005,4010,3826,120300
+02-2022,Main Street Mart,Guitar,10821,2109,1455,63270
+03-2022,Main Street Mart,Guitar,10167,1236,1646,37080
+04-2022,Main Street Mart,Guitar,10577,1254,1276,37620
+05-2022,Main Street Mart,Guitar,10599,1332,206,39960
+06-2022,Main Street Mart,Guitar,9473,1384,3887,41520
+07-2022,Main Street Mart,Guitar,11976,3031,1185,90930
+08-2022,Main Street Mart,Guitar,10130,3308,2616,99240
+09-2022,Main Street Mart,Guitar,9438,1391,1309,41730
+10-2022,Main Street Mart,Guitar,9356,1334,1576,40020
+11-2022,Main Street Mart,Guitar,9598,2736,4968,82080
+12-2022,Main Street Mart,Guitar,11830,4104,2983,123120
+01-2023,Main Street Mart,Guitar,10709,5723,4993,171690
+02-2023,Main Street Mart,Guitar,9979,3062,3122,91860
+03-2023,Main Street Mart,Guitar,10039,1839,1646,55170
+04-2023,Main Street Mart,Guitar,9846,1865,2942,55950
+05-2023,Main Street Mart,Guitar,10923,1974,1872,59220
+06-2023,Main Street Mart,Guitar,10821,2047,2220,61410
+07-2023,Main Street Mart,Guitar,10994,4352,4519,130560
+08-2023,Main Street Mart,Guitar,11161,4740,3283,142200
+09-2023,Main Street Mart,Guitar,9704,2057,3309,61710
+10-2023,Main Street Mart,Guitar,10956,1977,576,59310
+11-2023,Main Street Mart,Guitar,9555,3939,4968,118170
+12-2023,Main Street Mart,Guitar,10584,5855,7983,175650
+01-2024,Main Street Mart,Guitar,12712,8662,5493,259860
+02-2024,Main Street Mart,Guitar,9543,4698,4789,140940
+03-2024,Main Street Mart,Guitar,9634,2875,3313,86250
+04-2024,Main Street Mart,Guitar,10072,2913,2942,87390
+05-2024,Main Street Mart,Guitar,10101,3076,3539,92280
+06-2024,Main Street Mart,Guitar,10564,3185,3887,95550
+07-2024,Main Street Mart,Guitar,11266,6620,6185,198600
+08-2024,Main Street Mart,Guitar,10831,7198,5950,215940
+09-2024,Main Street Mart,Guitar,9583,3200,1309,96000
+08-2019,The Corner Store,Clarinet,11000,2750,1425,66000
+09-2019,The Corner Store,Clarinet,5698,1075,1964,25800
+10-2019,The Corner Store,Clarinet,9253,1025,864,24600
+11-2019,The Corner Store,Clarinet,8609,2250,2452,54000
+12-2019,The Corner Store,Clarinet,9416,3447,1974,82728
+01-2020,The Corner Store,Clarinet,3526,3750,3239,90000
+02-2020,The Corner Store,Clarinet,1482,1923,2183,46152
+03-2020,The Corner Store,Clarinet,2524,1083,2469,25992
+04-2020,The Corner Store,Clarinet,8069,1100,1914,26400
+05-2020,The Corner Store,Clarinet,11323,1175,309,28200
+06-2020,The Corner Store,Clarinet,7857,1225,831,29400
+07-2020,The Corner Store,Clarinet,6279,2809,1778,67416
+08-2020,The Corner Store,Clarinet,2156,3075,2925,73800
+09-2020,The Corner Store,Clarinet,1555,1232,1964,29568
+10-2020,The Corner Store,Clarinet,4481,1177,864,28248
+11-2020,The Corner Store,Clarinet,3228,2525,2452,60600
+12-2020,The Corner Store,Clarinet,2936,3841,3474,92184
+01-2021,The Corner Store,Clarinet,1468,4572,4489,109728
+02-2021,The Corner Store,Clarinet,1138,2379,2433,57096
+03-2021,The Corner Store,Clarinet,1356,1371,2469,32904
+04-2021,The Corner Store,Clarinet,5749,1392,1914,33408
+05-2021,The Corner Store,Clarinet,7837,1482,309,35568
+06-2021,The Corner Store,Clarinet,3145,1542,1081,37008
+07-2021,The Corner Store,Clarinet,1301,3442,4278,82608
+08-2021,The Corner Store,Clarinet,4645,3761,3925,90264
+09-2021,The Corner Store,Clarinet,5298,1550,1964,37200
+10-2021,The Corner Store,Clarinet,6952,1484,864,35616
+11-2021,The Corner Store,Clarinet,4471,3101,2452,74424
+12-2021,The Corner Store,Clarinet,1873,4681,6974,112344
+01-2022,The Corner Store,Clarinet,11046,6015,5739,144360
+02-2022,The Corner Store,Clarinet,9944,3164,2183,75936
+03-2022,The Corner Store,Clarinet,6022,1853,2469,44472
+04-2022,The Corner Store,Clarinet,8484,1881,1914,45144
+05-2022,The Corner Store,Clarinet,8616,1998,309,47952
+06-2022,The Corner Store,Clarinet,1860,2076,5831,49824
+07-2022,The Corner Store,Clarinet,16880,4546,1778,109104
+08-2022,The Corner Store,Clarinet,5808,4961,3925,119064
+09-2022,The Corner Store,Clarinet,1661,2087,1964,50088
+10-2022,The Corner Store,Clarinet,1169,2001,2364,48024
+11-2022,The Corner Store,Clarinet,2621,4103,7452,98472
+12-2022,The Corner Store,Clarinet,16015,6157,4474,147768
+01-2023,The Corner Store,Clarinet,9285,8584,7489,206016
+02-2023,The Corner Store,Clarinet,4904,4593,4683,110232
+03-2023,The Corner Store,Clarinet,5264,2759,2469,66216
+04-2023,The Corner Store,Clarinet,4105,2797,4414,67128
+05-2023,The Corner Store,Clarinet,10572,2961,2809,71064
+06-2023,The Corner Store,Clarinet,9964,3070,3331,73680
+07-2023,The Corner Store,Clarinet,11007,6528,6778,156672
+08-2023,The Corner Store,Clarinet,12006,7110,4925,170640
+09-2023,The Corner Store,Clarinet,3265,3086,4964,74064
+10-2023,The Corner Store,Clarinet,10778,2966,864,71184
+11-2023,The Corner Store,Clarinet,2372,5909,7452,141816
+12-2023,The Corner Store,Clarinet,8545,8783,11974,210792
+01-2024,The Corner Store,Clarinet,21309,12993,8239,311832
+02-2024,The Corner Store,Clarinet,2292,7046,7183,169104
+03-2024,The Corner Store,Clarinet,2839,4313,4969,103512
+04-2024,The Corner Store,Clarinet,5462,4370,4414,104880
+05-2024,The Corner Store,Clarinet,5636,4614,5309,110736
+06-2024,The Corner Store,Clarinet,8414,4777,5831,114648
+07-2024,The Corner Store,Clarinet,12629,9930,9278,238320
+08-2024,The Corner Store,Clarinet,10022,10796,8925,259104
+09-2024,The Corner Store,Clarinet,2535,4800,1964,115200
+08-2019,Market Basket,Clarinet,11000,3667,1899,88008
+09-2019,Market Basket,Clarinet,9232,1433,2618,34392
+10-2019,Market Basket,Clarinet,10417,1367,1152,32808
+11-2019,Market Basket,Clarinet,10202,3000,3269,72000
+12-2019,Market Basket,Clarinet,10471,4595,2632,110280
+01-2020,Market Basket,Clarinet,8508,5000,4319,120000
+02-2020,Market Basket,Clarinet,7827,2563,2911,61512
+03-2020,Market Basket,Clarinet,8175,1443,3292,34632
+04-2020,Market Basket,Clarinet,10024,1467,2551,35208
+05-2020,Market Basket,Clarinet,11108,1567,411,37608
+06-2020,Market Basket,Clarinet,9952,1633,1107,39192
+07-2020,Market Basket,Clarinet,9426,3745,2370,89880
+08-2020,Market Basket,Clarinet,8051,4100,3899,98400
+09-2020,Market Basket,Clarinet,7850,1643,2618,39432
+10-2020,Market Basket,Clarinet,8825,1570,1152,37680
+11-2020,Market Basket,Clarinet,8407,3366,3269,80784
+12-2020,Market Basket,Clarinet,8310,5121,4632,122904
+01-2021,Market Basket,Clarinet,7821,6095,5985,146280
+02-2021,Market Basket,Clarinet,7711,3171,3244,76104
+03-2021,Market Basket,Clarinet,7784,1827,3292,43848
+04-2021,Market Basket,Clarinet,9249,1855,2551,44520
+05-2021,Market Basket,Clarinet,9945,1975,411,47400
+06-2021,Market Basket,Clarinet,8381,2055,1441,49320
+07-2021,Market Basket,Clarinet,7767,4589,5704,110136
+08-2021,Market Basket,Clarinet,8882,5015,5233,120360
+09-2021,Market Basket,Clarinet,9100,2067,2618,49608
+10-2021,Market Basket,Clarinet,9651,1979,1152,47496
+11-2021,Market Basket,Clarinet,8824,4135,3269,99240
+12-2021,Market Basket,Clarinet,7958,6241,9299,149784
+01-2022,Market Basket,Clarinet,11016,8019,7652,192456
+02-2022,Market Basket,Clarinet,10649,4218,2911,101232
+03-2022,Market Basket,Clarinet,9342,2471,3292,59304
+04-2022,Market Basket,Clarinet,10163,2507,2551,60168
+05-2022,Market Basket,Clarinet,10207,2663,411,63912
+06-2022,Market Basket,Clarinet,7955,2767,7774,66408
+07-2022,Market Basket,Clarinet,12962,6061,2370,145464
+08-2022,Market Basket,Clarinet,9271,6615,5233,158760
+09-2022,Market Basket,Clarinet,7889,2782,2618,66768
+10-2022,Market Basket,Clarinet,7725,2668,3152,64032
+11-2022,Market Basket,Clarinet,8209,5471,9936,131304
+12-2022,Market Basket,Clarinet,12674,8208,5965,196992
+01-2023,Market Basket,Clarinet,10431,11446,9985,274704
+02-2023,Market Basket,Clarinet,8970,6124,6244,146976
+03-2023,Market Basket,Clarinet,9090,3678,3292,88272
+04-2023,Market Basket,Clarinet,8704,3729,5885,89496
+05-2023,Market Basket,Clarinet,10860,3947,3745,94728
+06-2023,Market Basket,Clarinet,10658,4093,4441,98232
+07-2023,Market Basket,Clarinet,11006,8704,9037,208896
+08-2023,Market Basket,Clarinet,11339,9480,6566,227520
+09-2023,Market Basket,Clarinet,8425,4114,6618,98736
+10-2023,Market Basket,Clarinet,10929,3954,1152,94896
+11-2023,Market Basket,Clarinet,8127,7878,9936,189072
+12-2023,Market Basket,Clarinet,10185,11710,15965,281040
+01-2024,Market Basket,Clarinet,14440,17324,10985,415776
+02-2024,Market Basket,Clarinet,8101,9395,9577,225480
+03-2024,Market Basket,Clarinet,8283,5751,6625,138024
+04-2024,Market Basket,Clarinet,9157,5827,5885,139848
+05-2024,Market Basket,Clarinet,9215,6152,7078,147648
+06-2024,Market Basket,Clarinet,10141,6369,7774,152856
+07-2024,Market Basket,Clarinet,11546,13239,12370,317736
+08-2024,Market Basket,Clarinet,10677,14395,11899,345480
+09-2024,Market Basket,Clarinet,8181,6400,2618,153600
+08-2019,Main Street Mart,Clarinet,1000,2000,1140,48000
+09-2019,Main Street Mart,Clarinet,140,782,1571,18768
+10-2019,Main Street Mart,Clarinet,929,745,691,17880
+11-2019,Main Street Mart,Clarinet,875,1636,1961,39264
+12-2019,Main Street Mart,Clarinet,1200,2507,1579,60168
+01-2020,Main Street Mart,Clarinet,272,2727,2591,65448
+02-2020,Main Street Mart,Clarinet,136,1398,1746,33552
+03-2020,Main Street Mart,Clarinet,484,787,1975,18888
+04-2020,Main Street Mart,Clarinet,1672,800,1531,19200
+05-2020,Main Street Mart,Clarinet,2403,855,247,20520
+06-2020,Main Street Mart,Clarinet,1795,891,664,21384
+07-2020,Main Street Mart,Clarinet,1568,2043,1711,49032
+08-2020,Main Street Mart,Clarinet,1236,1818,1518,43632
+09-2020,Main Street Mart,Clarinet,936,711,1428,17064
+10-2020,Main Street Mart,Clarinet,1653,677,628,16248
+11-2020,Main Street Mart,Clarinet,1604,1487,1783,35688
+12-2020,Main Street Mart,Clarinet,1900,2279,1435,54696
+01-2021,Main Street Mart,Clarinet,1056,2479,2355,59496
+02-2021,Main Street Mart,Clarinet,932,1271,1587,30504
+03-2021,Main Street Mart,Clarinet,1248,715,1795,17160
+04-2021,Main Street Mart,Clarinet,2328,727,1392,17448
+05-2021,Main Street Mart,Clarinet,2993,777,225,18648
+06-2021,Main Street Mart,Clarinet,2441,810,604,19440
+07-2021,Main Street Mart,Clarinet,2235,1857,1555,44568
+08-2021,Main Street Mart,Clarinet,1933,1653,1380,39672
+09-2021,Main Street Mart,Clarinet,1660,646,1298,15504
+10-2021,Main Street Mart,Clarinet,2312,615,571,14760
+11-2021,Main Street Mart,Clarinet,2268,1352,1621,32448
+12-2021,Main Street Mart,Clarinet,2537,2072,1305,49728
+01-2022,Main Street Mart,Clarinet,1770,2254,2141,54096
+02-2022,Main Street Mart,Clarinet,1657,1155,1443,27720
+03-2022,Main Street Mart,Clarinet,1945,650,1632,15600
+04-2022,Main Street Mart,Clarinet,2927,661,1265,15864
+05-2022,Main Street Mart,Clarinet,3531,706,205,16944
+06-2022,Main Street Mart,Clarinet,3030,736,549,17664
+07-2022,Main Street Mart,Clarinet,2843,1688,1414,40512
+08-2022,Main Street Mart,Clarinet,2569,1503,1255,36072
+09-2022,Main Street Mart,Clarinet,2321,587,1180,14088
+10-2022,Main Street Mart,Clarinet,2914,559,519,13416
+11-2022,Main Street Mart,Clarinet,2874,1229,1474,29496
+12-2022,Main Street Mart,Clarinet,3119,1884,1186,45216
+01-2023,Main Street Mart,Clarinet,2421,2049,1946,49176
+02-2023,Main Street Mart,Clarinet,2318,1050,1312,25200
+03-2023,Main Street Mart,Clarinet,2580,591,1484,14184
+04-2023,Main Street Mart,Clarinet,3473,601,1150,14424
+05-2023,Main Street Mart,Clarinet,4022,642,186,15408
+06-2023,Main Street Mart,Clarinet,3566,669,499,16056
+07-2023,Main Street Mart,Clarinet,3396,1535,1285,36840
+08-2023,Main Street Mart,Clarinet,3146,1366,1141,32784
+09-2023,Main Street Mart,Clarinet,2921,534,1073,12816
+10-2023,Main Street Mart,Clarinet,3460,508,472,12192
+11-2023,Main Street Mart,Clarinet,3424,1117,1340,26808
+12-2023,Main Street Mart,Clarinet,3647,1713,1078,41112
+01-2024,Main Street Mart,Clarinet,3012,1863,1769,44712
+02-2024,Main Street Mart,Clarinet,2918,955,1193,22920
+03-2024,Main Street Mart,Clarinet,3156,537,1349,12888
+04-2024,Main Street Mart,Clarinet,3968,546,1045,13104
+05-2024,Main Street Mart,Clarinet,4467,584,169,14016
+06-2024,Main Street Mart,Clarinet,4052,608,454,14592
+07-2024,Main Street Mart,Clarinet,3898,1395,1168,33480
+08-2024,Main Street Mart,Clarinet,3671,1242,1037,29808
+09-2024,Main Street Mart,Clarinet,3466,485,975,11640
